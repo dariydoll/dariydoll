@@ -59,6 +59,15 @@ https://app.qase.io/public/report/7de394bd6922d948253430d91ceb40fc701ec88a
 
 https://docs.google.com/document/d/1tKjgmopkFHepatDgCpcRs0yeWQV9UjBufVPuFRQlcwM/edit?usp=sharing
 
+`Проект 4`: работа с сайтом библиотеки 
+
+Сайт: https://online-ru-lib-3.herokuapp.com/
+
+▪️ Что нужно было сделать: Проверить работу сайта, работа с требованиями
+
+📎 Ссылка на работу:
+
+https://rozovyjf-qa.atlassian.net/wiki/spaces/~63ff32f215d668edd8ed7a97/pages/262145?atlOrigin=eyJpIjoiNTg1YjRiZjQ4OTg5NDQxMTkwYmZlMjcwOWYwOTE5NWEiLCJwIjoiYyJ9
 
 ## Контактная информация 
 
