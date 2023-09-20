@@ -49,7 +49,7 @@ https://app.qase.io/public/report/7de394bd6922d948253430d91ceb40fc701ec88a
 Пароль: dlvu732323
 
 
-`Проект 3`: работа с приложение https://sky-todo-list.herokuapp.com/
+`Проект 3`: работа с приложением https://sky-todo-list.herokuapp.com/
 
 Что нужно было сделать:
 
